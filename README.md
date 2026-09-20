@@ -1,9 +1,9 @@
 # Hi there, I'm Roman! 👋
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-QA%20%26%20Automation-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-success?style=for-the-badge"/>
 </p>
 
 I am a self-taught **Junior QA Engineer & Python Automation Developer**. I focus on web automation, data scraping, API testing, and software quality. I love turning manual routines into clean, efficient scripts.
@@ -39,13 +39,13 @@ I am a self-taught **Junior QA Engineer & Python Automation Developer**. I focus
 
 If you need a data scraping script, an automated Telegram helper, web testing, or SQL database support — feel free to drop me a message!
 
-* 💬 **Telegram:** [t.me/Roman_Molokov](https://t.me)
+* 💬 **Telegram:** [t.me/Molokov_R](https : / / t.me / Molokov_R)
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://vercel.app" height="150" alt="stats" />
-  <img src="https://vercel.app" height="150" alt="languages" />
+  <img src="https : / / github-readme-stats.vercel.app / api?username=MolokovR&show_icons=true&theme=radial&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https : / / github-readme-stats.vercel.app / api / top-langs /?username=MolokovR&layout=compact&theme=radial&hide_border=true&langs_count=6" height="150" alt="languages" />
 </p>
