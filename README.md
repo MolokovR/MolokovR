@@ -43,14 +43,8 @@ If you need a data scraping script, an automated Telegram helper, web testing, o
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MolokovR&theme=radial&no-bg=true&margin-w=15" alt="trophies"/>
-</p>
-
-### 📈 Contribution Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MolokovR&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="activity-graph"/>
-</p>
+### 🎯 My Current Focus & Goals
+* 🚀 **Deepening QA Automation:** Integrating Python scripts with Selenium and PyTest for web application testing.
+* 📊 **Advanced Data Management:** Mastering complex SQL queries, database indexing, and REST API performance testing.
+* 💡 **Open for Opportunities:** Ready to help with automation routines, data scraping, or junior-level QA tasks.
 
