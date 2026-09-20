@@ -51,7 +51,7 @@ If you need a data scraping script, an automated Telegram helper, web testing, o
 
 ### 📈 Contribution Graph
 <p align="left">
-  <img src="https : / / github-profile-trophy.vercel.app / ?username=MolokovR&theme=radial&no-bg=true&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MolokovR&theme=radial&no-bg=true&margin-w=15" alt="trophies"/>
 </p>
 
 ### 📈 Contribution Graph
