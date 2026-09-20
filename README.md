@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Roman! 👋
 
-<!--
-**MolokovR/MolokovR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-Here are some ideas to get you started:
+I am a self-taught **Junior QA Engineer & Python Automation Developer**. I focus on web automation, data scraping, API testing, and software quality. I love turning manual routines into clean, efficient scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **QA & Software Testing 🔍**
+* **Manual Testing:** Writing bug reports, test cases, and checklists. Understanding SDLC/STLC phases.
+* **API Testing:** Testing endpoints and verifying data payloads using **REST API** concepts.
+* **Databases:** Writing basic queries, filtering, and data validation using **SQL**.
+* **UI Automation:** Learning web automation, handling page elements, and hunting for software bugs.
+
+#### **Python Automation & Data Processing 🐍**
+* **Scraping & Parsing:** BeautifulSoup4, Requests, asynchronous networking with `aiohttp`.
+* **Data Formatting:** Parsing raw text/web data into clean **Excel (Pandas), CSV, and JSON** reports.
+* **Telegram Bot API:** Building asynchronous backend systems using `aiogram v3`.
+
+#### **Web Basics & CMS 💻**
+* **Frontend:** Basic HTML5, CSS3, and JavaScript troubleshooting.
+* **CMS Support:** Simple bug fixing, element styling, and tweaks on **WordPress & Tilda**.
+
+---
+
+### 🚀 Featured Projects
+
+* **[Freelance Bot Hunter](https://github.com)** — An asynchronous real-time Telegram agent that scrapes, filters, and tracks jobs from major platforms using Python and regex boundaries. Fully deployed on Amvera.ru.
+
+---
+
+### 📬 Connect with me
+
+If you need a data scraping script, an automated Telegram helper, web testing, or SQL database support — feel free to drop me a message!
+
+* 💬 **Telegram:** [t.me/Roman_Molokov](https://t.me)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://vercel.app" height="150" alt="stats" />
+  <img src="https://vercel.app" height="150" alt="languages" />
+</p>
