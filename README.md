@@ -46,6 +46,6 @@ If you need a data scraping script, an automated Telegram helper, web testing, o
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MolokovR&show_icons=true&theme=radial&hide_border=true&count_private=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolokovR&layout=compact&theme=radial&hide_border=true&langs_count=6" height="150" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MolokovR&show_icons=true&theme=radial&hide_border=true&count_private=true"height="150"alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolokovR&layout=compact&theme=radial&hide_border=true&langs_count=6"height="150"alt="languages"/>
 </p>
