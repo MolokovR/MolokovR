@@ -39,7 +39,7 @@ I am a self-taught **Junior QA Engineer & Python Automation Developer**. I focus
 
 If you need a data scraping script, an automated Telegram helper, web testing, or SQL database support — feel free to drop me a message!
 
-* 💬 **Telegram:** [t.me/Molokov_R](https : / / t.me / Molokov_R)
+* 💬 **Telegram:** [t.me/Molokov_R](https://t.me/Molokov_R)
 
 ---
 
